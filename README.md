@@ -21,6 +21,5 @@ The latter I am likely to see quicker, but once I graduate that will no longer b
 
 
 <!---
-julianmackenzie/julianmackenzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I updated this repository from GitHub Desktop! The test was a GREAT SUCCESS!
 --->
