@@ -1,5 +1,4 @@
-Hello! My name is Julian B Mackenzie. I am a Computer Science undergrad at the University of Illinois @ Chicago.
-I will be graduating in May of 2022 with a BS in Computer Science.
+Hello! My name is Julian B Mackenzie. I'm a SWE student graduating in May of 2022, raring and ready to get working on any projects I can get my hands on!
 
 
 I am interested in software engineering, web app development, game development, and UI/UX specialization.
