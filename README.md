@@ -1,4 +1,4 @@
-Hello! My name is Julian B Mackenzie. I'm a SWE student graduating in May of 2024, raring and ready to get working on any projects I can get my hands on!
+Hello! My name is Julian Mackenzie. I'm a SWE student graduating in May of 2024, raring and ready to get working on any projects I can get my hands on!
 
 
 I am interested in software engineering, web app development, game development, and UI/UX specialization.
