@@ -10,7 +10,6 @@ I hope to begin learning to create web applications soon.
 
 
 I have a college-level experience in C++/C, Java, and Python, as well as knowledge in SQL and GML.
-I am a quick learner, have excellent written and oral communication skills, and in leadership I value a team-focused environment.
 
 
 I am always open to project and work inquiries!
