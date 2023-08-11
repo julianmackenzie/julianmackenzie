@@ -6,10 +6,9 @@ I am interested in software engineering, web app development, game development, 
 
 As far as my progress toward those interests go, I have a decent understanding of software engineering and the components
 at play in that field, as well as a growing knowledge of game development (writing, art design, team organization, etc.).
-I hope to begin learning to create web applications soon.
 
 
-I have a college-level experience in C++/C, Java, and Python, as well as knowledge in SQL and GML.
+I have a college-level experience in C++/C, Java, and Python, experience with React JS and web design, as well as knowledge in SQL and GML.
 
 
 I am always open to project and work inquiries!
