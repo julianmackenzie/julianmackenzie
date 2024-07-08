@@ -1,19 +1,11 @@
-Hello! My name is Julian Mackenzie. I'm a SWE student graduating in May of 2024, raring and ready to get working on any projects I can get my hands on!
+My name is Julian Mackenzie. I'm a Frontend Developer and Software Engineer with my B.S. in Computer Science from UIC, raring and ready to get working on any projects I can get my hands on!
 
 
-I am interested in software engineering, web app development, game development, UX specialization.
+I am currently expanding my knowledge in the areas of web and webapp development, game development, and business management/marketing.
 
 
-As far as my progress toward those interests go, I have a decent understanding of software engineering and the components
-at play in that field, as well as a growing knowledge of game development (writing, art design, team organization, etc.).
-
-
-I have a college-level experience in C++/C/C#, Java, and Python, experience with React JS and web design, as well as knowledge in SQL and GML.
-
-
-I am always open to project and work inquiries!
-Contact me at julianbmackenzie@gmail.com, or using my school email, jbm5@uic.edu.
-The latter I am likely to see quicker, but once I graduate that will no longer be available.
+I am always open to project and business inquiries!
+Contact me at julianbmackenzie@gmail.com.
 
 
 
